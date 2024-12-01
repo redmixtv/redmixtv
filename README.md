@@ -1,8 +1,8 @@
-## Heyyyyyyyyy
-redmix here
-i code
-i had to set this up to get verified for the student developer pack
-thanks 👍
+## Heyyyyyyyyy <br />
+redmix here <br />
+i code <br />
+i had to set this up to get verified for the student developer pack <br />
+thanks 👍 <br />
 
 <!--
 **redmixtv/redmixtv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

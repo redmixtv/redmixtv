@@ -4,8 +4,7 @@ i sometimes code <br />
 i set this up in hopes i one day get verified for student developer pack<br />
 thanks 👍 <br />
 <br />
-also
-## Owner @ Arcuno
+also Owner @ Arcuno
 
 <!--
 **redmixtv/redmixtv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

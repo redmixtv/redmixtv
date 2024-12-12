@@ -1,8 +1,11 @@
-## Heyyyyyyyyy <br />
+## heyy <br />
 redmix here <br />
-i code <br />
-i had to set this up to get verified for the student developer pack <br />
+i sometimes code <br />
+i set this up in hopes i one day get verified for student developer pack<br />
 thanks 👍 <br />
+<br />
+also
+## Owner @ Arcuno
 
 <!--
 **redmixtv/redmixtv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

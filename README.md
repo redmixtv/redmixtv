@@ -1,7 +1,7 @@
 ## heyyyyyyy <br />
 redmix here <br />
 i sometimes code <br />
-i set this up in hopes i one day get verified for student developer pack<br />
+i set this up in hopes i one day get verified for the student developer pack<br />
 thanks 👍 <br />
 
 <!--

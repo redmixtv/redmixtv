@@ -1,5 +1,6 @@
-## heyyyyyyy <br />
-redmix here
+upcoming nba star<br />
+famous musician<br />
+trillionaire
 <!--
 **redmixtv/redmixtv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

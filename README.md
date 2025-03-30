@@ -1,5 +1,5 @@
-##About me:
-### - nba star<br />
+## About me:
+### - young NBA superstar<br />
 ### - famous musician<br />
 ### - upcoming trillionaire
 <!--

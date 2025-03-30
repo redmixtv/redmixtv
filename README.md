@@ -1,6 +1,7 @@
-upcoming nba star<br />
-famous musician<br />
-trillionaire
+##About me:
+### - nba star<br />
+### - famous musician<br />
+### - upcoming trillionaire
 <!--
 **redmixtv/redmixtv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
